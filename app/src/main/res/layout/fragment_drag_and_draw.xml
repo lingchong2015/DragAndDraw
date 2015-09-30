@@ -1,0 +1,6 @@
+<!--View必须有id， 否则onSaveInstanceState()方法不会被调用-->
+<com.dirk41.draganddraw.BoxDrawingView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/box_drawing_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
